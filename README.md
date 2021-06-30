@@ -3,7 +3,7 @@ Autor: Michał Sagan                                   Krakow, 28.06.2021
 
 * Zawartosc:
 
-Katalog line_follower zawiera dwa katalogi z plikami:
+Katalog LineFollower zawiera dwa podkatalogi z plikami:
 --------------------------------------------------------------------
 
 I.  Katalog worlds zawiera pliki: world1.wbt, world2.wbt, world3.wbt.
