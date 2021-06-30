@@ -1,0 +1,12 @@
+Tor: 3
+Rodzaj: Nieadaptacyjny
+Czas: 2.39s
+
+Tor: 3
+Rodzaj: Nieadaptacyjny
+Czas: 54.77s
+
+Tor: 3
+Rodzaj: Nieadaptacyjny
+Czas: 8277.53s
+
