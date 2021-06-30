@@ -1,8 +1,7 @@
-Autor: Michał Sagan,                                  Krakow, 28.06.2021
+Autor: Michał Sagan                                   Krakow, 28.06.2021
 ========================================================================
 
 * Zawartosc:
-============
 
 Katalog line_follower zawiera dwa katalogi z plikami:
 --------------------------------------------------------------------
@@ -21,7 +20,6 @@ Reszta katalogów zostałą wygenerowana automatycznie przez środowisko
 Webots i jest pusta.
 
 * Jak uruchomic sybulację:
-=========================
 
 Aby uruchomić symulację należy:
 1) Pobrać oraz zainstalować język Python https://python.org/downloads.
