@@ -16,8 +16,6 @@ II. Katalog controlers zawiera podkatalogi: LineFollower oraz LineFollowerNR,
 	Kontrolery to programy, które sterują zachowaniem robota podczas symulacji.
 
 ------------------------------------------------------------------------
-Reszta katalogów zostałą wygenerowana automatycznie przez środowisko 
-Webots i jest pusta.
 
 * Jak uruchomic sybulację:
 
