@@ -58,6 +58,8 @@ flag = False
 i = 0
 # flaga czy robot wykryl ostry skret
 turn = False
+# polowa rozdzielczosci kamery
+y = 128
 
 start_time = time.time()
 
@@ -77,7 +79,10 @@ while robot.step(timestep) != -1:
     left = row[0:y]
     right = row[y:2*y]
     left.reverse()
-    if max(left)<60 or max(right)<60:
+    if (max(left[0:64]) < 60 or max(right[0:64]) < 60) :
+        turn = True
+        max_speed = 4.6
+    elif  (max(left[0:64]) > 60 and left[64] < 60) or (max(right[0:64]) > 60 and right[64] < 60) :
         turn = True
         max_speed = 4.6
     if turn and (ir_values[0] < 300 or ir_values[5] < 300):
