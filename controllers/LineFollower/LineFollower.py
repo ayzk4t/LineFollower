@@ -84,7 +84,7 @@ while robot.step(timestep) != -1:
         max_speed = 4.6
     elif  (max(left[0:64]) > 60 and left[64] < 60) or (max(right[0:64]) > 60 and right[64] < 60) :
         turn = True
-        max_speed = 4.6
+        max_speed = 1
     if turn and (ir_values[0] < 300 or ir_values[5] < 300):
         if ir_values[0] > 1000:
             for x in range(25):
