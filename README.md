@@ -30,6 +30,11 @@ e-puck -> controller -> Sellect... natępnie należy wybrać odpowiedni
 kontroler (LineFollowerNR lub LineFollower).
 6) Uruchomić symulację naciskając przycisk 'Run the simulation in the real time'.
 
+* Dokumentacja:
+
+Link do dokumentacji projektu https://github.com/ayzk4t/LineFollower/blob/main/dokumentacja.pdf
+Link do dokumentacji Cyberbotics (Webots) https://cyberbotics.com/doc/reference/nodes-and-api-functions
+
 ========================================================================
 
 
