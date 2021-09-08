@@ -19,7 +19,6 @@ timestep = int(robot.getBasicTimeStep())
 
 # Deklaracja i inicjalizacja silników
 leftMotor = robot.getDevice('left wheel motor')
-print(type(leftMotor))
 rightMotor = robot.getDevice('right wheel motor')
 leftMotor.setPosition(float('inf'))
 rightMotor.setPosition(float('inf'))
@@ -39,7 +38,6 @@ LS_IR = robot.getDevice('ir_LS')
 LS_IR.enable(timestep)
 RS_IR = robot.getDevice('ir_RS')
 RS_IR.enable(timestep)
-print(type(L_IR))
 
 
 # flaga czy robot wykrył tor
