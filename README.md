@@ -17,7 +17,7 @@ II. Katalog controlers zawiera podkatalogi: LineFollower oraz LineFollowerNR,
 
 ------------------------------------------------------------------------
 
-* Jak uruchomic sybulację:
+* Jak uruchomic sybulacje:
 
 Aby uruchomić symulację należy:
 1) Pobrać oraz zainstalować język Python https://python.org/downloads.
